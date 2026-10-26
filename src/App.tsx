@@ -82,7 +82,7 @@ export default function App() {
           <button
             onClick={() => setPanelOpen((v) => !v)}
             title={panelOpen ? "收起列表" : "展开列表"}
-            className="absolute left-3 top-3 z-[1000] flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white/95 px-2.5 py-1.5 text-xs text-slate-600 shadow-md transition-colors hover:bg-white hover:text-slate-800"
+            className="absolute left-3 top-[104px] z-[1000] flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white/95 px-2.5 py-1.5 text-xs text-slate-600 shadow-md transition-colors hover:bg-white hover:text-slate-800"
           >
             {panelOpen ? <PanelLeftClose className="h-4 w-4" /> : <PanelLeftOpen className="h-4 w-4" />}
             {panelOpen ? "收起" : "网点列表"}
