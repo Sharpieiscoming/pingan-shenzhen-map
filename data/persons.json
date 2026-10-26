@@ -1,0 +1,1146 @@
+{
+  "cy-bantian": [
+    {
+      "name": "吴文惠",
+      "role": "RM",
+      "sales": 133,
+      "share": 42.1
+    },
+    {
+      "name": "黄秋平",
+      "role": "RM",
+      "sales": 60,
+      "share": 19
+    },
+    {
+      "name": "陈卓君",
+      "role": "RM",
+      "sales": 55,
+      "share": 17.4
+    }
+  ],
+  "cy-baoan": [
+    {
+      "name": "高悦",
+      "role": "RM",
+      "sales": 55,
+      "share": 46.6
+    }
+  ],
+  "cy-buji": [
+    {
+      "name": "戚旭东",
+      "role": "RM",
+      "sales": 140,
+      "share": 68.6
+    }
+  ],
+  "cy-changcheng": [
+    {
+      "name": "蒋勇",
+      "role": "RM",
+      "sales": 128,
+      "share": 63.1
+    }
+  ],
+  "cy-chegongmiao": [
+    {
+      "name": "李荣",
+      "role": "RM",
+      "sales": 179,
+      "share": 59.5
+    },
+    {
+      "name": "黄女容",
+      "role": "RM",
+      "sales": 117,
+      "share": 38.9
+    }
+  ],
+  "cy-chuangyelu": [
+    {
+      "name": "丁双双",
+      "role": "RM",
+      "sales": 150,
+      "share": 64.7
+    },
+    {
+      "name": "吴彩燕",
+      "role": "RM",
+      "sales": 50,
+      "share": 21.6
+    }
+  ],
+  "cy-futian": [
+    {
+      "name": "张欢欢",
+      "role": "RM",
+      "sales": 117,
+      "share": 52.7
+    },
+    {
+      "name": "王晓芳",
+      "role": "RM",
+      "sales": 50,
+      "share": 22.5
+    }
+  ],
+  "cy-guiyuan": [
+    {
+      "name": "汪魁",
+      "role": "RM",
+      "sales": 60,
+      "share": 26.7
+    },
+    {
+      "name": "王子洋",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 22.2
+    },
+    {
+      "name": "郭志展",
+      "role": "RM",
+      "sales": 50,
+      "share": 22.2
+    }
+  ],
+  "cy-henggang": [
+    {
+      "name": "张米",
+      "role": "RM",
+      "sales": 130,
+      "share": 54.2
+    },
+    {
+      "name": "谭英",
+      "role": "RM",
+      "sales": 110,
+      "share": 45.8
+    }
+  ],
+  "cy-huafu": [
+    {
+      "name": "刘娟",
+      "role": "RM",
+      "sales": 77,
+      "share": 44.8
+    },
+    {
+      "name": "牟秀梅",
+      "role": "RM",
+      "sales": 50,
+      "share": 29.1
+    }
+  ],
+  "cy-huaqiaocheng": [
+    {
+      "name": "徐婧",
+      "role": "RM",
+      "sales": 50,
+      "share": 100
+    }
+  ],
+  "cy-jiangsudasha": [
+    {
+      "name": "吴定元",
+      "role": "财富团队长",
+      "sales": 420,
+      "share": 84
+    },
+    {
+      "name": "赵舒瑶",
+      "role": "RM",
+      "sales": 50,
+      "share": 10
+    }
+  ],
+  "cy-kejiyuan": [
+    {
+      "name": "拓宏远",
+      "role": "WSM",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "cy-longsheng": [
+    {
+      "name": "欧阳曲",
+      "role": "支行零售负责人",
+      "sales": 180,
+      "share": 77.9
+    },
+    {
+      "name": "陈清",
+      "role": "RM",
+      "sales": 50,
+      "share": 21.6
+    }
+  ],
+  "cy-luhu": [
+    {
+      "name": "陈少叶",
+      "role": "财富团队长",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "cy-pinghu": [
+    {
+      "name": "胡丽婷",
+      "role": "RM",
+      "sales": 63,
+      "share": 48.5
+    },
+    {
+      "name": "张宇露",
+      "role": "RM",
+      "sales": 50,
+      "share": 38.5
+    }
+  ],
+  "cy-shijiezhichuang": [
+    {
+      "name": "梁媛",
+      "role": "财富团队长",
+      "sales": 100,
+      "share": 52.1
+    },
+    {
+      "name": "裴怡",
+      "role": "RM",
+      "sales": 50,
+      "share": 26
+    }
+  ],
+  "cy-shuibeizhubao": [
+    {
+      "name": "杜方圆",
+      "role": "RM",
+      "sales": 500,
+      "share": 96
+    }
+  ],
+  "cy-wuzhou": [
+    {
+      "name": "林建树",
+      "role": "RM",
+      "sales": 188,
+      "share": 67.6
+    },
+    {
+      "name": "沈杉",
+      "role": "RM",
+      "sales": 70,
+      "share": 25.2
+    }
+  ],
+  "cy-xiangmihu": [
+    {
+      "name": "颜夏娟",
+      "role": "RM",
+      "sales": 95,
+      "share": 59.7
+    }
+  ],
+  "cy-zhuoyuecheng": [
+    {
+      "name": "吴俊升",
+      "role": "RM",
+      "sales": 121,
+      "share": 49.4
+    },
+    {
+      "name": "彭晓青",
+      "role": "支行零售负责人",
+      "sales": 100,
+      "share": 40.8
+    }
+  ],
+  "hk-bagualing": [
+    {
+      "name": "邹红梅",
+      "role": "RM",
+      "sales": 80,
+      "share": 55.2
+    }
+  ],
+  "hk-banyin": [
+    {
+      "name": "李珊",
+      "role": "RM",
+      "sales": 177,
+      "share": 100
+    }
+  ],
+  "hk-changxing": [
+    {
+      "name": "邸鑫",
+      "role": "RM",
+      "sales": 150,
+      "share": 20.2
+    },
+    {
+      "name": "曾世玉",
+      "role": "RM",
+      "sales": 142,
+      "share": 19.1
+    },
+    {
+      "name": "闫绍辉",
+      "role": "财富团队长",
+      "sales": 100,
+      "share": 13.5
+    },
+    {
+      "name": "张志梅",
+      "role": "财富团队长",
+      "sales": 90,
+      "share": 12.1
+    },
+    {
+      "name": "盛媛",
+      "role": "RM",
+      "sales": 56,
+      "share": 7.5
+    },
+    {
+      "name": "吕玮琪",
+      "role": "RM",
+      "sales": 55,
+      "share": 7.4
+    },
+    {
+      "name": "姜洋",
+      "role": "RM",
+      "sales": 50,
+      "share": 6.7
+    },
+    {
+      "name": "韩龙思",
+      "role": "RM",
+      "sales": 50,
+      "share": 6.7
+    }
+  ],
+  "hk-guomao": [
+    {
+      "name": "潘晓",
+      "role": "RM",
+      "sales": 185,
+      "share": 27.2
+    },
+    {
+      "name": "靳亚洲",
+      "role": "RM",
+      "sales": 100,
+      "share": 14.7
+    },
+    {
+      "name": "许晓欣",
+      "role": "RM",
+      "sales": 90,
+      "share": 13.2
+    },
+    {
+      "name": "江春",
+      "role": "RM",
+      "sales": 80,
+      "share": 11.8
+    },
+    {
+      "name": "朱涵",
+      "role": "RM",
+      "sales": 65,
+      "share": 9.6
+    },
+    {
+      "name": "钟基运",
+      "role": "RM",
+      "sales": 60,
+      "share": 8.8
+    },
+    {
+      "name": "关羽丰",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 7.4
+    },
+    {
+      "name": "文晓佳",
+      "role": "RM",
+      "sales": 50,
+      "share": 7.4
+    }
+  ],
+  "hk-houhai": [
+    {
+      "name": "余庆",
+      "role": "RM",
+      "sales": 320,
+      "share": 100
+    }
+  ],
+  "hk-luogang": [
+    {
+      "name": "许宛玲",
+      "role": "财富团队长",
+      "sales": 200,
+      "share": 38.7
+    },
+    {
+      "name": "陈斯慧",
+      "role": "RM",
+      "sales": 181,
+      "share": 35
+    },
+    {
+      "name": "王旭",
+      "role": "RM",
+      "sales": 50,
+      "share": 9.7
+    },
+    {
+      "name": "何明",
+      "role": "RM",
+      "sales": 50,
+      "share": 9.7
+    }
+  ],
+  "hk-shajing": [
+    {
+      "name": "刘庆",
+      "role": "RM",
+      "sales": 126,
+      "share": 21.5
+    },
+    {
+      "name": "林滨虹",
+      "role": "财富团队长",
+      "sales": 100,
+      "share": 17.1
+    },
+    {
+      "name": "杨小丽",
+      "role": "RM",
+      "sales": 100,
+      "share": 17.1
+    },
+    {
+      "name": "杨杰",
+      "role": "RM",
+      "sales": 78,
+      "share": 13.3
+    },
+    {
+      "name": "冯璋元",
+      "role": "RM",
+      "sales": 50,
+      "share": 8.5
+    }
+  ],
+  "jy-daxuecheng": [
+    {
+      "name": "朱红可",
+      "role": "RM",
+      "sales": 50,
+      "share": 80.6
+    }
+  ],
+  "jy-fenhangyingyebu": [
+    {
+      "name": "王锐",
+      "role": "RM",
+      "sales": 220,
+      "share": 17.8
+    },
+    {
+      "name": "吕新华",
+      "role": "RM",
+      "sales": 215,
+      "share": 17.4
+    },
+    {
+      "name": "徐越",
+      "role": "RM",
+      "sales": 131,
+      "share": 10.6
+    },
+    {
+      "name": "肖亮铠",
+      "role": "RM",
+      "sales": 125,
+      "share": 10.1
+    },
+    {
+      "name": "林铭涵",
+      "role": "RM",
+      "sales": 106,
+      "share": 8.6
+    },
+    {
+      "name": "赵子杰",
+      "role": "财富团队长",
+      "sales": 100,
+      "share": 8.1
+    },
+    {
+      "name": "邓志航",
+      "role": "RM",
+      "sales": 93,
+      "share": 7.5
+    },
+    {
+      "name": "汪蔚",
+      "role": "RM",
+      "sales": 85,
+      "share": 6.9
+    },
+    {
+      "name": "贾宏磊",
+      "role": "RM",
+      "sales": 73,
+      "share": 5.9
+    }
+  ],
+  "jy-fujing": [
+    {
+      "name": "叶智勇",
+      "role": "RM",
+      "sales": 110,
+      "share": 44.9
+    },
+    {
+      "name": "乔振曲",
+      "role": "RM",
+      "sales": 88,
+      "share": 35.9
+    }
+  ],
+  "jy-gaoxinbei": [
+    {
+      "name": "林小萍",
+      "role": "RM",
+      "sales": 60,
+      "share": 35.9
+    }
+  ],
+  "jy-meilong": [
+    {
+      "name": "陈培雄",
+      "role": "RM",
+      "sales": 132,
+      "share": 45.4
+    },
+    {
+      "name": "刘茵",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 17.2
+    },
+    {
+      "name": "邝晋炜",
+      "role": "RM",
+      "sales": 50,
+      "share": 17.2
+    }
+  ],
+  "jy-nanshan": [
+    {
+      "name": "朱成成",
+      "role": "厅堂主管",
+      "sales": 191,
+      "share": 100
+    }
+  ],
+  "jy-shekou": [
+    {
+      "name": "罗辉云",
+      "role": "RM",
+      "sales": 130,
+      "share": 75.1
+    }
+  ],
+  "jy-shenda": [
+    {
+      "name": "韦想",
+      "role": "RM",
+      "sales": 100,
+      "share": 57.8
+    },
+    {
+      "name": "翁嫚红",
+      "role": "WSM",
+      "sales": 59,
+      "share": 34.1
+    }
+  ],
+  "jy-shuiwei": [
+    {
+      "name": "何奕鹏",
+      "role": "WSM",
+      "sales": 81,
+      "share": 50.3
+    },
+    {
+      "name": "尤俊义",
+      "role": "RM",
+      "sales": 80,
+      "share": 49.7
+    }
+  ],
+  "jy-shuixiechuntian": [
+    {
+      "name": "杨赐滨",
+      "role": "RM",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "sx-erzhongxinerbu": [
+    {
+      "name": "汤明",
+      "role": "PB",
+      "sales": 109,
+      "share": 100
+    }
+  ],
+  "sx-erzhongxinliubu": [
+    {
+      "name": "苏勒德",
+      "role": "PB",
+      "sales": 130,
+      "share": 47.1
+    },
+    {
+      "name": "郭志勇",
+      "role": "PB",
+      "sales": 115,
+      "share": 41.7
+    }
+  ],
+  "sx-erzhongxinyibu": [
+    {
+      "name": "陈煜锟",
+      "role": "PB",
+      "sales": 100,
+      "share": 62.5
+    },
+    {
+      "name": "李灵玲",
+      "role": "PB",
+      "sales": 60,
+      "share": 37.5
+    }
+  ],
+  "sx-liuzhongxinerbu": [
+    {
+      "name": "陈苏丽",
+      "role": "私行团队长",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "sx-liuzhongxinwubu": [
+    {
+      "name": "林璐敏",
+      "role": "PB",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "sx-liuzhongxinyibu": [
+    {
+      "name": "周舒蕊",
+      "role": "PB",
+      "sales": 80,
+      "share": null
+    },
+    {
+      "name": "陈俊浩",
+      "role": "PB",
+      "sales": 50,
+      "share": null
+    }
+  ],
+  "sx-qizhongxinerbu": [
+    {
+      "name": "邱月",
+      "role": "PB",
+      "sales": 80,
+      "share": 100
+    }
+  ],
+  "sx-qizhongxinsanbu": [
+    {
+      "name": "苗莉萍",
+      "role": "私行团队长",
+      "sales": 90,
+      "share": 52.9
+    },
+    {
+      "name": "鹿洁纯",
+      "role": "PB",
+      "sales": 70,
+      "share": 41.2
+    }
+  ],
+  "sx-qizhongxinyibu": [
+    {
+      "name": "李少华",
+      "role": "PB",
+      "sales": 60,
+      "share": 100
+    }
+  ],
+  "sx-sanzhongxinerbu": [
+    {
+      "name": "李雪",
+      "role": "PB",
+      "sales": 60,
+      "share": 48
+    },
+    {
+      "name": "张红琴",
+      "role": "PB",
+      "sales": 50,
+      "share": 40
+    }
+  ],
+  "sx-sanzhongxinqibu": [
+    {
+      "name": "孟繁东",
+      "role": "PB",
+      "sales": 110,
+      "share": 78.6
+    }
+  ],
+  "sx-sanzhongxinwubu": [
+    {
+      "name": "吕艺莹",
+      "role": "PB",
+      "sales": 50,
+      "share": 72.5
+    }
+  ],
+  "sx-sanzhongxinyibu": [
+    {
+      "name": "陈锡全",
+      "role": "PB",
+      "sales": 100,
+      "share": 90.9
+    }
+  ],
+  "sx-sizhongxinliubu": [
+    {
+      "name": "刘淑英",
+      "role": "PB",
+      "sales": 193,
+      "share": 82.8
+    }
+  ],
+  "sx-sizhongxinsanbu": [
+    {
+      "name": "张曼钰",
+      "role": "PB",
+      "sales": 1000,
+      "share": 83.3
+    },
+    {
+      "name": "伍强",
+      "role": "PB",
+      "sales": 100,
+      "share": 8.3
+    },
+    {
+      "name": "富饶",
+      "role": "PB",
+      "sales": 100,
+      "share": 8.3
+    }
+  ],
+  "sx-sizhongxinyibu": [
+    {
+      "name": "龚心瑶",
+      "role": "PB",
+      "sales": 170,
+      "share": 35.3
+    },
+    {
+      "name": "林楠",
+      "role": "PB",
+      "sales": 111,
+      "share": 23.1
+    },
+    {
+      "name": "冉晨曦",
+      "role": "PB",
+      "sales": 100,
+      "share": 20.8
+    },
+    {
+      "name": "林晓圆",
+      "role": "私行团队长",
+      "sales": 100,
+      "share": 20.8
+    }
+  ],
+  "sx-yizhongxinqibu": [
+    {
+      "name": "邬永芳",
+      "role": "RM",
+      "sales": 312,
+      "share": 58.6
+    },
+    {
+      "name": "李园园",
+      "role": "PB",
+      "sales": 150,
+      "share": 28.2
+    },
+    {
+      "name": "郭晓",
+      "role": "PB",
+      "sales": 50,
+      "share": 9.4
+    }
+  ],
+  "sx-yizhongxinwubu": [
+    {
+      "name": "庄惠普",
+      "role": "PB",
+      "sales": 100,
+      "share": 100
+    }
+  ],
+  "zx-baocheng": [
+    {
+      "name": "温伟豪",
+      "role": "RM",
+      "sales": 405,
+      "share": 99.5
+    }
+  ],
+  "zx-dongle": [
+    {
+      "name": "谭湘贤",
+      "role": "RM",
+      "sales": 150,
+      "share": 94.9
+    }
+  ],
+  "zx-dongmen": [
+    {
+      "name": "李敏溪",
+      "role": "RM",
+      "sales": 454,
+      "share": 93.8
+    }
+  ],
+  "zx-fuxing": [
+    {
+      "name": "胡泓铭",
+      "role": "RM",
+      "sales": 60,
+      "share": 39.7
+    },
+    {
+      "name": "黄燕华",
+      "role": "RM",
+      "sales": 50,
+      "share": 33.1
+    }
+  ],
+  "zx-fuyong": [
+    {
+      "name": "栗晶",
+      "role": "RM",
+      "sales": 107,
+      "share": 39.8
+    },
+    {
+      "name": "顾婷婷",
+      "role": "RM",
+      "sales": 90,
+      "share": 33.5
+    },
+    {
+      "name": "黄锦瑞",
+      "role": "RM",
+      "sales": 62,
+      "share": 23
+    }
+  ],
+  "zx-gongming": [
+    {
+      "name": "麦惠欢",
+      "role": "WSM",
+      "sales": 60,
+      "share": 42.9
+    }
+  ],
+  "zx-guangming": [
+    {
+      "name": "屈玲玲",
+      "role": "RM",
+      "sales": 61,
+      "share": 51.3
+    }
+  ],
+  "zx-hongbao": [
+    {
+      "name": "黄洁怡",
+      "role": "RM",
+      "sales": 115,
+      "share": 90.6
+    }
+  ],
+  "zx-jinsha": [
+    {
+      "name": "李冯阳",
+      "role": "PR",
+      "sales": 220,
+      "share": 84.9
+    }
+  ],
+  "zx-longgang": [
+    {
+      "name": "梁楚基",
+      "role": "RM",
+      "sales": 55,
+      "share": 16
+    },
+    {
+      "name": "刘芷慧",
+      "role": "RM",
+      "sales": 50,
+      "share": 14.6
+    }
+  ],
+  "zx-longhua": [
+    {
+      "name": "徐芳",
+      "role": "RM",
+      "sales": 139,
+      "share": 23.2
+    },
+    {
+      "name": "骆音志",
+      "role": "RM",
+      "sales": 120,
+      "share": 20
+    },
+    {
+      "name": "黄昊蔚",
+      "role": "RM",
+      "sales": 112,
+      "share": 18.7
+    },
+    {
+      "name": "黄翊玮",
+      "role": "财富团队长",
+      "sales": 104,
+      "share": 17.4
+    }
+  ],
+  "zx-luohu": [
+    {
+      "name": "詹浩腾",
+      "role": "RM",
+      "sales": 88,
+      "share": 89.8
+    }
+  ],
+  "zx-meilin": [
+    {
+      "name": "李雪",
+      "role": "RM",
+      "sales": 75,
+      "share": 58.1
+    }
+  ],
+  "zx-meisha": [
+    {
+      "name": "侯悦",
+      "role": "RM",
+      "sales": 110,
+      "share": 100
+    }
+  ],
+  "zx-nanhai": [
+    {
+      "name": "刘巍",
+      "role": "RM",
+      "sales": 218,
+      "share": 71.9
+    }
+  ],
+  "zx-nantou": [
+    {
+      "name": "王韵",
+      "role": "RM",
+      "sales": 164,
+      "share": 37.4
+    },
+    {
+      "name": "崔雪洁",
+      "role": "RM",
+      "sales": 122,
+      "share": 27.9
+    },
+    {
+      "name": "古亦琦",
+      "role": "RM",
+      "sales": 100,
+      "share": 22.8
+    },
+    {
+      "name": "吴旭升",
+      "role": "理财经理",
+      "sales": 52,
+      "share": 11.9
+    }
+  ],
+  "zx-pinganyinhangdasha": [
+    {
+      "name": "杨鹏龙",
+      "role": "RM",
+      "sales": 104,
+      "share": 14.8
+    },
+    {
+      "name": "胡嘉琪",
+      "role": "RM",
+      "sales": 100,
+      "share": 14.2
+    },
+    {
+      "name": "洪晓端",
+      "role": "财富团队长",
+      "sales": 58,
+      "share": 8.3
+    },
+    {
+      "name": "宋志新",
+      "role": "RM",
+      "sales": 55,
+      "share": 7.8
+    },
+    {
+      "name": "彭娅",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 7.1
+    }
+  ],
+  "zx-qiaoxiang": [
+    {
+      "name": "陈娉婷",
+      "role": "WSM",
+      "sales": 79,
+      "share": 100
+    }
+  ],
+  "zx-shidaijinrong": [
+    {
+      "name": "张文娟",
+      "role": "财富团队长",
+      "sales": 110,
+      "share": 23.5
+    },
+    {
+      "name": "林小霞",
+      "role": "RM",
+      "sales": 110,
+      "share": 23.5
+    },
+    {
+      "name": "谢又娥",
+      "role": "RM",
+      "sales": 90,
+      "share": 19.2
+    },
+    {
+      "name": "于敏",
+      "role": "财富团队长",
+      "sales": 80,
+      "share": 17.1
+    }
+  ],
+  "zx-shisha": [
+    {
+      "name": "张秋雨",
+      "role": "RM",
+      "sales": 118,
+      "share": 44.9
+    },
+    {
+      "name": "陈雅婷",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 19
+    },
+    {
+      "name": "杜雨晨",
+      "role": "RM",
+      "sales": 50,
+      "share": 19
+    }
+  ],
+  "zx-xili": [
+    {
+      "name": "张莉涓",
+      "role": "RM",
+      "sales": 117,
+      "share": 30.4
+    },
+    {
+      "name": "彭明琦",
+      "role": "RM",
+      "sales": 85,
+      "share": 22.1
+    },
+    {
+      "name": "朱晓娴",
+      "role": "RM",
+      "sales": 65,
+      "share": 16.9
+    }
+  ],
+  "zx-xufei": [
+    {
+      "name": "刘双双",
+      "role": "财富团队长",
+      "sales": 50,
+      "share": 71.4
+    }
+  ],
+  "zx-yantian": [
+    {
+      "name": "黄秀玲",
+      "role": "RM",
+      "sales": 85,
+      "share": 40.5
+    },
+    {
+      "name": "赵雅姿",
+      "role": "RM",
+      "sales": 75,
+      "share": 35.7
+    }
+  ],
+  "zx-zhongxincheng": [
+    {
+      "name": "陈凯",
+      "role": "财富团队长",
+      "sales": 150,
+      "share": 58.6
+    },
+    {
+      "name": "齐佳",
+      "role": "RM",
+      "sales": 50,
+      "share": 19.5
+    }
+  ]
+}
