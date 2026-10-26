@@ -288,13 +288,6 @@ function BranchDetail({
             </div>
           </div>
           <div className="rounded-lg bg-slate-50 p-2.5">
-            <div className="text-[11px] text-slate-400">FOF目标</div>
-            <div className="text-lg font-bold text-slate-700">
-              {s ? s.totalTask.toLocaleString() : "待补充"}
-              <span className="ml-0.5 text-xs font-normal text-slate-400">万</span>
-            </div>
-          </div>
-          <div className="rounded-lg bg-slate-50 p-2.5">
             <div className="text-[11px] text-slate-400">负责人</div>
             <div className="text-sm font-semibold text-slate-700">
               {branch.manager}
